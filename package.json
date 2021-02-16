@@ -2,10 +2,16 @@
   "name": "inm320-gitassignment",
   "version": "1.0.0",
   "description": "Seneca INM320 Git Assignment",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "lite-server --baseDir=\"public\""
   },
   "author": "Amanda Lutz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmandaLutzTO/inm320-git-assignment.git"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
