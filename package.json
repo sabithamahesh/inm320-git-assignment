@@ -1,0 +1,11 @@
+{
+  "name": "inm320-gitassignment",
+  "version": "1.0.0",
+  "description": "Seneca INM320 Git Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Lutz",
+  "license": "ISC"
+}
