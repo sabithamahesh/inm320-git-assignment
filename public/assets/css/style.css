@@ -1,0 +1,208 @@
+body {
+    background: #ffddd2;
+    color: #006d77;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #edf6f9;
+    text-align: center;
+    padding: 40px;
+}
+header h1 {
+    font-weight: 300;
+    font-size: 24px;
+}
+p {
+    margin-bottom: 20px;
+}
+
+main {
+    background: #edf6f9;
+    padding: 20px;
+}
+main div {
+    background: #83c5be;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
+#cgarevalo-leon {
+
+}
+
+
+#ratmaca{
+
+}
+
+
+#mbarroso-avelino-ara {
+
+}
+
+
+#ycho54 {
+
+}
+
+
+#badalal {
+
+}
+
+
+#tdawson5 {
+
+}
+
+
+#ddavis21{
+
+}
+
+
+#adua5 {
+
+}
+
+
+#hengeda {
+
+}
+
+
+#dflocco {
+
+}
+
+
+#ngalvao-maia {
+
+}
+
+
+#kgarcia15 {
+
+}
+
+
+#cgonzales5 {
+
+}
+
+
+#igorina2 {
+
+}
+
+
+#khidaka {
+
+}
+
+
+#dislam4 {
+
+}
+
+
+#fkeita {
+
+}
+
+
+#kykim13 {
+
+}
+
+
+#mliang16 {
+
+}
+
+
+#qlu30 {
+
+}
+
+
+#amanda.lutz {
+
+}
+
+
+#smahesh1 { 
+
+}
+
+
+#amalwatta {
+
+}
+
+
+#pbhatt24 {
+
+}
+
+
+#lpomeroy2 {
+
+}
+
+
+#pprakash5 {
+
+}
+
+
+#lfremicio-tinoco {
+
+}
+
+
+#msshojaei-zadeh {
+
+}
+
+
+#jsondhi2 {
+
+}
+
+
+#jtorres-lizarazo {
+
+}
+
+
+#mfwali {
+
+}
+
+footer {
+    text-align: center;
+    background: #ffddd2;
+    color: #e29578;
+    padding: 40px;
+    border-top: 2px solid #e29578;
+}
+
+
+@media (min-width: 650px) {
+    main {
+        display: flex;
+        justify-content : space-between;
+        flex-wrap: wrap;
+    }
+    main p { 
+        width: 100%;
+    }
+    main div {
+        width: calc( 33.3333% - 50px );
+    }
+}
