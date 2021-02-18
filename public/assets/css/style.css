@@ -109,7 +109,9 @@ main div {
 
 
 #dislam4 {
-
+    color: #83c5be;
+    font-style: italic;
+    border: 2px solid red;
 }
 
 
