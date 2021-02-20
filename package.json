@@ -12,6 +12,7 @@
     "url": "https://github.com/AmandaLutzTO/inm320-git-assignment.git"
   },
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "live-server": "^1.2.1"
   }
 }
