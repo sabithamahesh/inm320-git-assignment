@@ -29,6 +29,11 @@ main div {
 }
 
 #cgarevalo-leon {
+  background-color: yellow;
+  color: black;
+  padding: 5px;
+  font-weight: 700;
+  font-family: 'Press Start 2P', cursive;
 }
 
 #ratmaca {
